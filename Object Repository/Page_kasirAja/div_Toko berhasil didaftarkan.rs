@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_login</name>
+   <name>div_Toko berhasil didaftarkan</name>
    <tag></tag>
-   <elementGuidId>6c177d24-55fc-41f3-ba5b-5bda539c812d</elementGuidId>
+   <elementGuidId>8796a802-1c89-4018-974e-a13f4dc4fd62</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.chakra-button.css-1n8i4of</value>
+         <value>#toast-1-title</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <value>//div[@id='toast-1-title']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,71 +21,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>a6dbd445-5589-40b2-8025-4b3c0edbe4de</webElementGuid>
+      <value>div</value>
+      <webElementGuid>6d69f763-2f01-48f2-ac9d-8a43b66535d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>id</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>aec53330-3e06-40a4-820a-b85ed1577258</webElementGuid>
+      <value>toast-1-title</value>
+      <webElementGuid>d84e805b-1af5-49a3-aa6c-b89be59deaf0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>chakra-button css-1n8i4of</value>
-      <webElementGuid>a96eeed4-1bf5-4c55-891d-c22c8e22ecfc</webElementGuid>
+      <value>chakra-alert__title css-tidvy5</value>
+      <webElementGuid>1c1ae678-9e64-4a98-8079-c3f77a098465</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>login</value>
-      <webElementGuid>a2ddf911-bff2-4a7a-9fcc-708e168e8758</webElementGuid>
+      <value>Toko berhasil didaftarkan</value>
+      <webElementGuid>9d12da62-d861-4c93-b570-2e1bc3d7a9ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;css-1y1lvqg&quot;]/div[@class=&quot;css-16in75i&quot;]/div[@class=&quot;css-1w7v3tn&quot;]/div[@class=&quot;css-11jlpvc&quot;]/button[@class=&quot;chakra-button css-1n8i4of&quot;]</value>
-      <webElementGuid>fe07ebe1-66b2-434e-adcf-40e446f5c364</webElementGuid>
+      <value>id(&quot;chakra-toast-manager-top-right&quot;)/li[@class=&quot;chakra-toast&quot;]/div[@class=&quot;chakra-toast__inner&quot;]/div[@id=&quot;1&quot;]/div[@class=&quot;css-njbp03&quot;]/div[@id=&quot;toast-1-title&quot;]</value>
+      <webElementGuid>4324642d-b370-48b6-98cd-e5a69d9b08c4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@type='submit']</value>
-      <webElementGuid>159a4a1b-884d-43b5-952c-ffb17702ad95</webElementGuid>
+      <value>//div[@id='toast-1-title']</value>
+      <webElementGuid>7d552a25-7369-490f-b133-c93b18c09211</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/div/div/div[2]/div/button</value>
-      <webElementGuid>831baa19-1d91-4a5c-a511-3efedea663f8</webElementGuid>
+      <value>//div[@id='1']/div/div</value>
+      <webElementGuid>2bebdf51-b0dd-4e7d-a760-ceb5c7f0c38d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>c783f435-0de2-409b-8f43-cb21009d1d37</webElementGuid>
+      <value>//li/div/div/div/div</value>
+      <webElementGuid>6bde8661-111a-46fd-bad1-3616decc5f26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'login' or . = 'login')]</value>
-      <webElementGuid>8fc88170-dfc2-4d5e-952b-c0ef2b513758</webElementGuid>
+      <value>//div[@id = 'toast-1-title' and (text() = 'Toko berhasil didaftarkan' or . = 'Toko berhasil didaftarkan')]</value>
+      <webElementGuid>1955945a-e156-4f30-b35c-d6a34d55d1c6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

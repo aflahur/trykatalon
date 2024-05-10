@@ -23,23 +23,20 @@ WebUI.navigateToUrl('https://kasirdemo.belajarqa.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_kasirAja/a_ingin mencoba, daftar'))
 
-WebUI.doubleClick(findTestObject('Object Repository/Page_kasirAja/inputname'))
+WebUI.click(findTestObject('Object Repository/Page_kasirAja/inputname'))
 
-WebUI.setText(findTestObject('Object Repository/Page_kasirAja/inputname'), 'tes')
+WebUI.setText(findTestObject('Object Repository/Page_kasirAja/inputname'), 'lagi')
 
-WebUI.setText(findTestObject('Object Repository/Page_kasirAja/inputemail'), 'teslagi@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Page_kasirAja/inputemail'), 'lagilagi@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_kasirAja/inputpassword'), '97JIB8cnVEM=')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_kasirAja/inputpassword'), 'YSa0AiVeDlxW0HF8dwF3ug==')
 
 WebUI.click(findTestObject('Object Repository/Page_kasirAja/button_daftar'))
 
-WebUI.setText(findTestObject('Object Repository/Page_kasirAja/inputemail'), 'teslagi@gmail.com')
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_kasirAja/div_Toko berhasil didaftarkan'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_kasirAja/inputpassword'), '97JIB8cnVEM=')
-
-WebUI.sendKeys(findTestObject('Object Repository/Page_kasirAja/inputpassword'), Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Object Repository/Page_kasirAja/button_login'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_kasirAja/div_anda dapat menggunakan login sekarang'), 
+    0)
 
 WebUI.closeBrowser()
 
