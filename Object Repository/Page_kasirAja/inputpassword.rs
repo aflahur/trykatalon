@@ -3,7 +3,7 @@
    <description></description>
    <name>inputpassword</name>
    <tag></tag>
-   <elementGuidId>1066683b-83f3-449c-a72f-f64c9ab612f6</elementGuidId>
+   <elementGuidId>87f59b8e-9a5d-46f8-8472-5b5ce39712b5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a85b47cd-3b1d-45db-a441-2c2d1bd93080</webElementGuid>
+      <webElementGuid>0b527a55-2b9d-4c5f-832b-bbf360704242</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>97329b52-8cdc-4407-9181-59b24d5a7615</webElementGuid>
+      <webElementGuid>1c8f818a-118b-4217-b2b8-4e99939b9587</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>d927f483-b7b3-4945-8de5-5eae117ef495</webElementGuid>
+      <webElementGuid>8e5fdc96-9b70-41b5-b3e6-ba86c6e7dc2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>9be6c1a6-f022-43a6-84d8-ebe0896eaad9</webElementGuid>
+      <webElementGuid>f57a7a05-a614-43d6-9810-79fd892cf283</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,15 +54,15 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-input css-u8hnuq</value>
-      <webElementGuid>d45f4b1d-9d36-4153-925a-71679698ee16</webElementGuid>
+      <webElementGuid>144505cf-7730-4cfd-8093-b8db4aa31891</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>t</value>
-      <webElementGuid>82ca729d-9ff4-473c-bc15-fb5abedb873e</webElementGuid>
+      <value>l</value>
+      <webElementGuid>1cbc747a-cdc8-4060-bf1e-53080bf2a48a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;password&quot;)</value>
-      <webElementGuid>75650678-df2d-41eb-acfc-935d839c74d6</webElementGuid>
+      <webElementGuid>9324fab3-c308-411f-8b37-ca421bd62838</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='password']</value>
-      <webElementGuid>12b31c47-c814-4343-a9c5-7d867b1d6eff</webElementGuid>
+      <webElementGuid>be5af614-1822-49e9-af4d-feb316642707</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div[2]/div/div[3]/div/input</value>
-      <webElementGuid>37a78dcf-08f1-4377-ae40-55db13852d1a</webElementGuid>
+      <webElementGuid>a356be71-0adb-4b8f-8b6a-ad31a113a8f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/input</value>
-      <webElementGuid>62118eb0-9fc9-460b-89a2-e1bc11be1fd6</webElementGuid>
+      <webElementGuid>7c6d2cf3-0b78-4ecc-9b7f-5ae37d9f0aee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @placeholder = 'password' and @id = 'password']</value>
-      <webElementGuid>5d834670-7b75-4f91-b525-8f655eac2a74</webElementGuid>
+      <webElementGuid>af1f618b-95e1-4bd1-bc1d-1d1d9f1f04e6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

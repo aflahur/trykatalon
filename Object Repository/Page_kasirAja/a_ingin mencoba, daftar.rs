@@ -3,7 +3,7 @@
    <description></description>
    <name>a_ingin mencoba, daftar</name>
    <tag></tag>
-   <elementGuidId>20f10bd2-5480-44d6-852d-7b57552dbcb1</elementGuidId>
+   <elementGuidId>eebb62f2-d02d-4533-bc18-674725794f1e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d57db953-0b34-4555-aef3-65c725802168</webElementGuid>
+      <webElementGuid>d40ab521-3ffb-42c2-9c96-cbafb06d458d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/register</value>
-      <webElementGuid>91a79b43-9e26-423d-baaf-61258792ae77</webElementGuid>
+      <webElementGuid>07f55c71-a05b-46b8-85ae-5e6c816f179c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>ingin mencoba, daftar ?</value>
-      <webElementGuid>ac5e9e34-addf-4115-bd41-07689c322b14</webElementGuid>
+      <webElementGuid>2ba079bc-1b74-48d7-afe9-7970e4354599</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;css-1y1lvqg&quot;]/div[@class=&quot;css-16in75i&quot;]/div[@class=&quot;css-1w7v3tn&quot;]/div[@class=&quot;css-11jlpvc&quot;]/div[@class=&quot;css-4rvv7a&quot;]/a[1]</value>
-      <webElementGuid>408477bf-8c43-4d76-9fdb-46ff36a8ce11</webElementGuid>
+      <webElementGuid>be338f31-dcbf-4d9f-a224-04d1f4790454</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div[2]/div/div[3]/a</value>
-      <webElementGuid>d3d3fad8-ed92-4817-b5ee-ac59d9457dbb</webElementGuid>
+      <webElementGuid>6b9ffdfd-fa55-4706-9192-dd145fa06fb6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'ingin mencoba, daftar ?')]</value>
-      <webElementGuid>7d27a9ae-7976-4719-8ddc-3d7c9916b424</webElementGuid>
+      <webElementGuid>82471225-62bf-44d7-8f2a-9212dc4c1861</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/register')]</value>
-      <webElementGuid>2ce13123-e4e1-4a74-aeac-4dfec6d615bb</webElementGuid>
+      <webElementGuid>5dd951c0-afe5-4e62-a573-e9d833f8a3c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/a</value>
-      <webElementGuid>08f7b5e2-f39e-4313-80ff-4fdc6a79f84f</webElementGuid>
+      <webElementGuid>b520d885-7fc5-4db1-9456-76ae942cfbd3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/register' and (text() = 'ingin mencoba, daftar ?' or . = 'ingin mencoba, daftar ?')]</value>
-      <webElementGuid>86a7c069-3397-44f0-81e8-87e9bbbf282c</webElementGuid>
+      <webElementGuid>da2f2457-2b85-43fd-8531-28437145cb90</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

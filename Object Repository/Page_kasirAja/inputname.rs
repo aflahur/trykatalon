@@ -3,7 +3,7 @@
    <description></description>
    <name>inputname</name>
    <tag></tag>
-   <elementGuidId>bf6d5f14-48cf-4f90-b5d9-aa317c334c8d</elementGuidId>
+   <elementGuidId>2bfb77fe-6404-4bb6-9b84-f25fbd62f65c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>101b50d4-966b-47e7-9616-a716b2cf825b</webElementGuid>
+      <webElementGuid>64885f62-86a2-414c-9d90-1c4223944d16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>c319a825-a43d-4e29-a1c3-9bc2573be185</webElementGuid>
+      <webElementGuid>791e8079-1a4a-40e1-9d80-abb07982ad81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>nama toko</value>
-      <webElementGuid>1d84f0db-f2b8-4e30-95c3-6d175d49241e</webElementGuid>
+      <webElementGuid>c4d24219-74b2-4125-958f-a4c078001c15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>name</value>
-      <webElementGuid>add60e26-42cb-4825-b5d7-d0f740b1b7ea</webElementGuid>
+      <webElementGuid>2cc84fde-77d0-44f1-8590-55e17c8f183f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>chakra-input css-ksd4gw</value>
-      <webElementGuid>360decc7-3ad6-4518-9324-1b56332e322c</webElementGuid>
+      <webElementGuid>810b2c18-2380-4169-aca5-fac00a4b1425</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;name&quot;)</value>
-      <webElementGuid>837b259b-13a8-4491-9cc2-d08747c96ab9</webElementGuid>
+      <webElementGuid>8e7e514f-a657-4ac9-88d4-e659295723bc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='name']</value>
-      <webElementGuid>123f393e-3b9b-4090-8046-a96c72a9f069</webElementGuid>
+      <webElementGuid>85233aff-63a4-46e2-8ed0-856434b56ed6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/div[2]/div/div/input</value>
-      <webElementGuid>999a4c9e-5a8d-4b9d-a921-be0e035a4f6a</webElementGuid>
+      <webElementGuid>c5ff1c11-6e5e-4edd-aa63-3c5dd2fc972d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>3317fd3d-6743-48df-b876-c16853b6dc7b</webElementGuid>
+      <webElementGuid>ab6bdb3a-a13f-4fa6-a110-1e18cf8d9a29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'nama toko' and @id = 'name']</value>
-      <webElementGuid>219a0a0d-224f-453e-afb7-a2eb37d26eba</webElementGuid>
+      <webElementGuid>28bd53dc-180d-49bc-b5e3-0a0d4a7681bd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
